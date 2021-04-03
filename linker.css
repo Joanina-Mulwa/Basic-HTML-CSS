@@ -1,0 +1,23 @@
+a:link {
+	background-color: red; 
+	color: black;
+	text-decoration: underline;
+}
+a:visited {
+	color: green;
+} 
+a:hover {
+	background-color: blue;
+	color: white;
+	text-decoration: underline;
+	font-weight: bold;
+} 
+a:active {
+	background-color: yellow;
+	color: red;
+}
+body{
+	background-color: black;
+	color: white;
+	
+}    
